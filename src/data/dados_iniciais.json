@@ -1,32 +1,32 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Física",
+      "link": "",
+      "cor": "#00C86F",
       "link_extra": {
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
           "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "url": "https://www.youtube.com/watch?v=5dx7vRxMRQI"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Física Quântica EXPLICADA",
+          "url": "https://www.youtube.com/watch?v=eA1E2HGdbKg"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Nós estamos vivendo em um Multiverso?",
+          "url": "https://www.youtube.com/watch?v=G7A5xrhWgT0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "A física de Interestelar",
+          "url": "https://www.youtube.com/watch?v=hvj_E767qyo"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": " ",
+          "url": ""
         },
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
@@ -43,23 +43,23 @@
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Astronomia",
+      "cor": "yellow",
       "link_extra": {
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Relatividade - Como é o universo?",
+          "url": "https://www.youtube.com/watch?v=p-FQQvw0Bwc"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Buracos Negros - Mistérios da Astronomia",
+          "url": "https://www.youtube.com/watch?v=4HLFqA9Ejgg"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Como funciona o Tempo no espaço?",
+          "url": "https://www.youtube.com/watch?v=zZq1N_hNxUk"
         },
         {
           "titulo": "API: Dicionário do Programador",
