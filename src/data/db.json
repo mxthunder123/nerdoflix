@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Física",
+      "descricao": "Aprenda várias curiosidades sobre  aquilo que controla nossa realidade",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 2,
+      "nome": "Astronomia",
+      "descricao": "Aprenda sobre os astros e a grandeza do universo",
+      "cor": "yellow"
+    }
+  ]
+}
